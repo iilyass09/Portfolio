@@ -961,6 +961,6 @@ body.fade.show {
 
 @media (max-width: 768px) {
   .container {
-    padding-top: 80px;
+    padding-top: 50px;
   }
 }
