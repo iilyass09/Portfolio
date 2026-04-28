@@ -161,6 +161,7 @@ body {
 
 /* HERO */
 .container {
+  padding-top: 80px;
   overflow-x: hidden;
   min-height: 100vh;
   display: flex;
