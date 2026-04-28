@@ -958,3 +958,9 @@ body.fade.show {
     margin-top: 0 !important;
   }
 }
+
+@media (max-width: 768px) {
+  .container {
+    padding-top: 80px;
+  }
+}
