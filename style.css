@@ -921,6 +921,19 @@ p {
   transition: background 0.3s, transform 0.2s;
 }
 
+.project-link-nonactive {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  background: #5b5b5b;
+  transition: background 0.3s, transform 0.2s;
+}
+
 .project-link:hover {
   background: #5a3de0;
   transform: translateY(-2px);
